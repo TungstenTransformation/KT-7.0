@@ -7,5 +7,5 @@ Kofax Transformation 7.0 was released on 14 April 2022
 * Parascript also provides the Check Engine.
 * Multiple Trainable Group Locators within one class now share training models.
 ## Links
-* [What's new in Kofax Transformation 7.0 Presentation].
-* [Documentation](https://github.com/)
+* [What's new in Kofax Transformation 7.0 Presentation](https://github.com/KofaxTransformation/KT-7.0/raw/main/20220412%20Kofax%20Transformation%207.0%20What's%20New.pptx).
+* [Documentation](https://docshield.kofax.com/KTT/en_US/7.0.0-hyanwr9123/help/PB/ProjectBuilder/100_UserInterface/ProjectSettings/r_ProjectSettings_RecognitionTab.html)
