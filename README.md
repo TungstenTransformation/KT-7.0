@@ -1,5 +1,6 @@
 # Kofax Transformation 7.0
-Kofax Transformation 7.0 was released on 14 April 2022
+Kofax Transformation 7.0 was released on 14 April 2022  
+[What's New Video](https://kofax.app.bigtincan.com/pfiles/eAZjmWR2oa5knKDlwBxkf5T6CJFXcXUOEJd3pPybLxQ9Y6GMq1) [Presentation]
 ## New Features
 * Kofax Omnipage 21 is now the OCR Engine for Machine Print OCR for Full Page and Zones.
 * Barcode Locator now uses Omnipage 21.
